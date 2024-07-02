@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Java House",
+        "url": "https://imgs.search.brave.com/zFOPtsLxkP6HS50hhL06udmNkIp-2TpU-4D2EmtvBNg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/b2ZmZWUtYmVhbnNf/MTQ0NjI3LTM1MTUy/LmpwZz9zaXplPTYy/NiZleHQ9anBn",
+        "rating": 4.5,
+        "distance": 1.2
+    },
+    {
+        "id": 2,
+        "name": "Brewed Awakenings",
+        "url": "https://imgs.search.brave.com/vhyLnvYlAONkyU2TwVerA74xNtyXhILNM7mKMiagvNw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTI3/MTM4NjE2Ny9waG90/by9jb2ZmZWUud2Vi/cD9iPTEmcz02MTJ4/NjEyJnc9MCZrPTIw/JmM9SUcyUzlDYW9J/eldzRkpNQU5pMVAw/dFFhQ3hkWlB0T2pi/bjY0M2I4V0lKVT0",
+        "rating": 4.7,
+        "distance": 0.8
+    },
+    {
+        "id": 3,
+        "name": "The Grind",
+        "url": "https://imgs.search.brave.com/7eqZgFl9OjrJ9Z5zEmKhjMORbYSwXuiF9D5_zfmr06Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTcx/MTU5MzI1L3Bob3Rv/L2NvZmZlZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9N0FZ/QmZyc3dxNTZYOWF0/bnRWblpvZzRSNjlh/ZlFMNkF6UmtGWGFO/TWRWST0",
+        "rating": 4.3,
+        "distance": 2.5
+    },
+    {
+        "id": 4,
+        "name": "Caffeine Fix",
+        "url": "https://imgs.search.brave.com/J4Z2BxwYTtM1HXWRcklRuuLkXnWLZweSGRL4jbz0EMU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9k/ZWxpY2lvdXMtY29m/ZmVlLWJlYW5zLWN1/cF8yMy0yMTUwNjkx/NDI5LmpwZz9zaXpl/PTYyNiZleHQ9anBn",
+        "rating": 4.6,
+        "distance": 1.0
+    },
+    {
+        "id": 5,
+        "name": "Morning Glory",
+        "url": "https://imgs.search.brave.com/OCg7sv3FiUnGNFBxR0DSXXoAjCcQAaSOhpi78wFPbTo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU3/NTI4MTI5L3Bob3Rv/L211Zy1vbi1wbGF0/ZS1maWxsZWQtd2l0/aC1jb2ZmZWUtc3Vy/cm91bmRlZC1ieS1j/b2ZmZWUtYmVhbnMu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PVdfemEtbXlPOVFQ/X2RpbWlKZVpYc1I0/RzJHSGpyZG8wUlR5/TzN5VmhvcFE9",
+        "rating": 4.2,
+        "distance": 1.8
+    },
+    {
+        "id": 6,
+        "name": "Bean There, Done That",
+        "url": "https://imgs.search.brave.com/QlMKbtE6xQhIxP-iLbnRdATGQwcZOlX_3XTc2x-hOQE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9s/YXR0ZS1jb2ZmZWUt/Y3VwXzc0MTkwLTEx/OTQuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+        "rating": 4.4,
+        "distance": 0.5
+    },
+    {
+        "id": 7,
+        "name": "Espresso Express",
+        "url": "https://imgs.search.brave.com/zFOPtsLxkP6HS50hhL06udmNkIp-2TpU-4D2EmtvBNg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/b2ZmZWUtYmVhbnNf/MTQ0NjI3LTM1MTUy/LmpwZz9zaXplPTYy/NiZleHQ9anBn",
+        "rating": 4.8,
+        "distance": 2.0
+    },
+    {
+        "id": 8,
+        "name": "Coffee Corner",
+        "url": "https://imgs.search.brave.com/Vgd0lXouhQa8I7_2h9EgwipsVKDIc6t4EwQ_L0pzYJU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9t/YW4tc2VydmluZy1j/dXAtY29mZmVlXzEy/ODYtMjE3LmpwZz9z/aXplPTYyNiZleHQ9/anBn",
+        "rating": 4.1,
+        "distance": 1.5
+    },
+    {
+        "id": 9,
+        "name": "Perk Up",
+        "url": "https://imgs.search.brave.com/cVF5eAEy6t0lDgInWn-ZFy2QR7yenDAJ6tuwt7ThJ00/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTc0/Njg0NjI4L3Bob3Rv/L3BvdXJpbmctZnJl/c2gtY29mZmVlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1w/WE9rTzliaFdWS0E3/czRKR3R2ejlhUE1a/emtGMjRub1hQZFhs/TWtUUV9BPQ",
+        "rating": 4.3,
+        "distance": 2.3
+    },
+    {
+        "id": 10,
+        "name": "Steamy Beans",
+        "url": "https://imgs.search.brave.com/zFOPtsLxkP6HS50hhL06udmNkIp-2TpU-4D2EmtvBNg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/b2ZmZWUtYmVhbnNf/MTQ0NjI3LTM1MTUy/LmpwZz9zaXplPTYy/NiZleHQ9anBn",
+        "rating": 4.7,
+        "distance": 0.9
+    }
+]
